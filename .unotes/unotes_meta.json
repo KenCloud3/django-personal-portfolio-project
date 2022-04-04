@@ -1,0 +1,38 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "blog": {
+      "name": "blog",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "personal_portfolio": {
+      "name": "personal_portfolio",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "portfolio": {
+      "name": "portfolio",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    },
+    "unotes": {
+      "name": "unotes",
+      "isOrdered": true,
+      "folders": {
+        "unotes": {
+          "name": "unotes",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
+      "files": {}
+    }
+  },
+  "files": {}
+}
